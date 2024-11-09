@@ -1,0 +1,3 @@
+{:config-paths ["better-cond/better-cond"]
+ :linters {:namespace-name-mismatch {:level :warn}
+           :not-empty? {:level :off}}}
